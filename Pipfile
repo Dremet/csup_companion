@@ -4,9 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-opencv-python-headless = "*"
 numpy = "*"
 pyautogui = "*"
+pywin32 = "*"
+opencv-python = "*"
+pillow = "*"
+pytesseract = "*"
 
 [dev-packages]
 
